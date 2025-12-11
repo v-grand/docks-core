@@ -18,6 +18,9 @@ nav:
     - 'Home': 'en/index.md'
   - 'ru':
     - 'Home': 'ru/index.md'
+    - 'Обзор Платформы': 'ru/platform-overview.md'
+    - 'Template User Service': 'ru/template-user-service.md'
+    - 'Template REST API': 'ru/template-rest-api.md'
   - 'pl':
     - 'Home': 'pl/index.md'
 

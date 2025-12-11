@@ -2,18 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-ci" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-aws" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-ci" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-core" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-docs" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-gcp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-k8s" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-monitoring" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-network" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-secrets" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/infra-deployer/infra-template" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/template-platform" vcs="Git" />
   </component>
 </project>
